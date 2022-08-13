@@ -1,1 +1,1 @@
-# fin_task_mgmt
+# Project is for manage finance ap squad daily and improvment tasks
